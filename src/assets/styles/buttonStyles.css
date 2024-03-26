@@ -1,0 +1,37 @@
+@import url("./colors.css");
+
+.btn-danger {
+  background-color: var(--grey001) !important;
+  color: var(--dark-grey) !important;
+  border-color: var(--grey002) !important;
+}
+
+.btn-danger:hover {
+  background-color: var(--grey002) !important;
+  color: var(--offwhite) !important;
+  border-color: var(--grey002) !important;
+}
+
+.btn-primary {
+  background-color: var(--blue002) !important;
+  color: var(--offwhite) !important;
+  border-color: var(--blue003) !important;
+}
+
+.btn-primary:hover {
+  background-color: var(--blue001) !important;
+  color: var(--dark-grey) !important;
+  border-color: var(--blue002) !important;
+}
+
+.btn-success {
+  background-color: var(--blue002) !important;
+  color: var(--offwhite) !important;
+  border-color: var(--blue003) !important;
+}
+
+.btn-success:hover {
+  background-color: var(--blue001) !important;
+  color: var(--dark-grey) !important;
+  border-color: var(--blue002) !important;
+}
